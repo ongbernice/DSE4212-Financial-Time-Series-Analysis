@@ -1,1 +1,3 @@
 # DSE4212-Financial-Time-Series-Analysis
+## Objective
+This project aims to develop a robust predictive model for forecasting Apple's adjusted close price by leveraging a combination of traditional time series models and deep learning techniques. The model will utilise lagged values of various financial metrics, such as stock prices and market indicators (e.g. S&P500 Index), from a set of prominent stocks (e.g., AAPL, MSFT, GOOGL, AMZN, TSLA, META). Additionally, it will incorporate advanced neural networks like LSTM to capture complex temporal patterns, comparing their performance against models like ARIMA.
